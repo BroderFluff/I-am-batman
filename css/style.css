@@ -1,0 +1,7 @@
+body {
+    height: 2000px;
+    background-image: url("../img/maxresdefault.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center, center;
+}
